@@ -35,7 +35,7 @@ I wanted to create a challenge for both enteratainment and education .
 4. Run the program ```./<OutputFile>```
 ## Target
 
-Your target is to make the application output "You cracked me this time, but you won't next time"
+Your target is to make the application output "grgrgrgrgrgrg You cracked me this time, but you won't next time"
 
 ## Technologies
 
